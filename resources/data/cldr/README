@@ -1,0 +1,13 @@
+Copy Unicode CLDR json files here... 
+
+Refer https://github.com/unicode-cldr/cldr-json and https://github.com/unicode-cldr/ for instructions
+
+
+main
+segments
+supplemental
+availableLocales.json
+defaultContent.json
+scriptMetadata.json
+state.json
+urls.json

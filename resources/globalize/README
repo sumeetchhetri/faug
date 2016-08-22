@@ -1,0 +1,13 @@
+Copy Globalize javascript files here... 
+
+https://github.com/jquery/globalize/releases -- dist folder
+
+
+currency.js
+date.js
+globalize.js
+message.js
+number.js
+plural.js
+relative-time.js
+unit.js

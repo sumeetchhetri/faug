@@ -1,0 +1,17 @@
+The most advanced MVC framework for building HTML5 based web and mobile applications
+
+Faug stands for generic automated UI framework
+
+Model - Object oriented Schema Json
+View - HTML Template
+Controller - Js functions
+Router - Configuration (config.json)
+i18n - globalize/i18next
+Dialogs - bootbox
+Responsive - bootstrap
+Utility library - jquery
+
+Forms are auto-generated with the help of the defined schema specification
+Crud operations or API's are also defined within a schema json to map read/add/update/fetch ajax call mappings
+Completely heirarchial forms can be specified, easy to define/use validation checkpoints
+Callbacks provide hooks to control the application workflow

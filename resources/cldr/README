@@ -1,0 +1,8 @@
+Copy CLDR javascript files here... 
+
+https://github.com/rxaviers/cldrjs/releases -- dist folder
+
+cldr.js
+event.js
+supplemental.js
+unresolved.js
